@@ -4,7 +4,7 @@ This project demonstrates end-to-end ML skills: data cleaning, exploratory analy
 
 As a college student applying for internships, I built this project to strengthen my applied machine learning skills and gain experience working with real-world healthcare data.
 
-##PROJECT OVERVIEW
+## PROJECT OVERVIEW
 
 This notebook develops a classification model that predicts diabetes using the PIMA Indians Diabetes Dataset.
 The workflow covers:
@@ -19,7 +19,7 @@ Interpreting feature importance
 
 Presenting insights for potential clinical decision support
 
-KEY FEATURES
+## KEY FEATURES
 
 1)End-to-end ML pipeline in Python
 
@@ -35,7 +35,7 @@ KEY FEATURES
 
 7)Final model deployment-ready pipeline
 
-##DATASET SUMMARY
+## DATASET SUMMARY
 
 Dataset: PIMA Indians Diabetes Dataset
 
@@ -61,7 +61,7 @@ Features: 8 medical predictors
 
 Target: Diabetes outcome (1 = diabetic, 0 = non-diabetic)
 
-TECHNOLOGIES USED
+## TECHNOLOGIES USED
 
 1)Python
 
